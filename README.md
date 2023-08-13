@@ -1,6 +1,6 @@
 # Codsoft-Internship
 <br>
-👋Welcome to my Codsoft Internhip Repository. You can find all the tasks over here
+👋Welcome to my Codsoft Internship Repository. You can find all the tasks over here
 <br><br>
 Some information regarding the internship: <br>
 1. This is a 1 month online internship and Codsoft has multiple intakes happening throughout the year <br>
