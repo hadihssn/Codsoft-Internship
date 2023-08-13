@@ -1,7 +1,7 @@
 # Codsoft-Internship
 <br>
 👋Welcome to my Codsoft Internhip Repository. You can find all the tasks over here
-<br>
+<br><br>
 Some information regarding the internship: <br>
 1. This is a 1 month online internship and Codsoft has multiple intakes happening throughout the year <br>
 2. You can choose any field among a number of fields like Web dev, Mobile app dev, Data science, Dev Ops and many more <br>
